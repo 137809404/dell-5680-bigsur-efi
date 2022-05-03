@@ -31,3 +31,8 @@
 - [x] 睡眠正常
 
 - [x] 触摸板使用妙控板二代
+
+## 截图
+![image](https://github.com/137809404/dell-5680-bigsur-efi/blob/master/img/截屏2022-05-03%20下午1.47.12.png)
+
+![image](https://github.com/137809404/dell-5680-bigsur-efi/blob/master/img/截屏2022-05-03%20下午1.48.55.png)
